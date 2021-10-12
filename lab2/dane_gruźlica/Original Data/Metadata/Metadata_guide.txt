@@ -1,5 +1,5 @@
 Plik z danymi zawiera informacje o ilości zachorowań na gruźlicę. Ilość zachorowań jest rozdzielona na:
 kolumna 1 - region,
 kulumna 2 - rok,
-kolumna 3 - suma przypadków z wszystkich grup wiekowych w danym regionie i roku,
+kolumna 3 - łączna liczba przypadków w danym kraju oraz roku,
 kolumny 4 - 23 - podział na płeć oraz grupę wiekową.

@@ -18,7 +18,7 @@ def test_extract_sentiment(sample):
 
     sentiment = extract_sentiment(sample)
 
-    assert sentiment > 0
+    assert sentiment < 0
 
 testdata2 = [
     ('There is a duck in this text', 'duck', True),
